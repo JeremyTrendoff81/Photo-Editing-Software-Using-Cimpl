@@ -25,8 +25,13 @@ Installation:
 _____________
 
 Python 3.7.4 or later must be installed.
+
 Uses the python library Pillow and, therefore, this library must be installed.
+
 Uses functions from Cimpl.py therefore Cimpl.py must be installed for the program to run.
+Cimpl.py is provided in this repository, make sure that this file is saved in the same directory
+the code is in.
+
 
 Usage:
 ______
